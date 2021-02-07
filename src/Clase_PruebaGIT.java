@@ -6,7 +6,8 @@ public class Clase_PruebaGIT {
 
 		JOptionPane.showMessageDialog(null, "Diablo diablooona");
 		JOptionPane.showMessageDialog(null, "Te pusiste muñeca");
-
+		JOptionPane.showMessageDialog(null, "mmmMMMMMmmmm");
+		
 	}
 
 }
